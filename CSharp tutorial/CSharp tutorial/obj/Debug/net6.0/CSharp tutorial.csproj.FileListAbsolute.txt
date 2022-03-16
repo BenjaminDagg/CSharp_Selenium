@@ -1,0 +1,15 @@
+C:\Users\Ben\Documents\c# tutorial\CSharp tutorial\CSharp tutorial\bin\Debug\net6.0\CSharp tutorial.exe
+C:\Users\Ben\Documents\c# tutorial\CSharp tutorial\CSharp tutorial\bin\Debug\net6.0\CSharp tutorial.deps.json
+C:\Users\Ben\Documents\c# tutorial\CSharp tutorial\CSharp tutorial\bin\Debug\net6.0\CSharp tutorial.runtimeconfig.json
+C:\Users\Ben\Documents\c# tutorial\CSharp tutorial\CSharp tutorial\bin\Debug\net6.0\CSharp tutorial.dll
+C:\Users\Ben\Documents\c# tutorial\CSharp tutorial\CSharp tutorial\bin\Debug\net6.0\CSharp tutorial.pdb
+C:\Users\Ben\Documents\c# tutorial\CSharp tutorial\CSharp tutorial\obj\Debug\net6.0\CSharp tutorial.csproj.AssemblyReference.cache
+C:\Users\Ben\Documents\c# tutorial\CSharp tutorial\CSharp tutorial\obj\Debug\net6.0\CSharp tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ben\Documents\c# tutorial\CSharp tutorial\CSharp tutorial\obj\Debug\net6.0\CSharp tutorial.AssemblyInfoInputs.cache
+C:\Users\Ben\Documents\c# tutorial\CSharp tutorial\CSharp tutorial\obj\Debug\net6.0\CSharp tutorial.AssemblyInfo.cs
+C:\Users\Ben\Documents\c# tutorial\CSharp tutorial\CSharp tutorial\obj\Debug\net6.0\CSharp tutorial.csproj.CoreCompileInputs.cache
+C:\Users\Ben\Documents\c# tutorial\CSharp tutorial\CSharp tutorial\obj\Debug\net6.0\CSharp tutorial.dll
+C:\Users\Ben\Documents\c# tutorial\CSharp tutorial\CSharp tutorial\obj\Debug\net6.0\refint\CSharp tutorial.dll
+C:\Users\Ben\Documents\c# tutorial\CSharp tutorial\CSharp tutorial\obj\Debug\net6.0\CSharp tutorial.pdb
+C:\Users\Ben\Documents\c# tutorial\CSharp tutorial\CSharp tutorial\obj\Debug\net6.0\CSharp tutorial.genruntimeconfig.cache
+C:\Users\Ben\Documents\c# tutorial\CSharp tutorial\CSharp tutorial\obj\Debug\net6.0\ref\CSharp tutorial.dll
