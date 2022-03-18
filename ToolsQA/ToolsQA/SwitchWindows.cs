@@ -186,6 +186,12 @@ namespace ToolsQA
             driver.SwitchTo().Window(driver.WindowHandles[0]);
         }
 
+        [Test]
+        public void TestPopupWindows()
+        {
+
+        }
+
         
 
         [TearDown]
