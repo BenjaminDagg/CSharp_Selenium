@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "wQMYj9keTnWaIsNnF6s0FzjaaFWvtmPwTDeeJI/0pfUhoFzLNv9z/N7ha2bNIoDLnu8STKWTIc5RH8jlxkL6RA==",
+  "dgSpecHash": "A7SjPw+u2xSobNDVsInNIiBMero2unMCes2ZHJtxt9a6jWwqbQuSKe76ROBXZszKm5VBucASYfNILsqwxSqUUw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Ben\\Documents\\c# tutorial\\ToolsQA\\ToolsQA\\ToolsQA.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Ben\\.nuget\\packages\\dotnetseleniumextras.pageobjects\\3.11.0\\dotnetseleniumextras.pageobjects.3.11.0.nupkg.sha512",
+    "C:\\Users\\Ben\\.nuget\\packages\\dotnetseleniumextras.pageobjects.core\\4.0.1\\dotnetseleniumextras.pageobjects.core.4.0.1.nupkg.sha512",
+    "C:\\Users\\Ben\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
     "C:\\Users\\Ben\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
     "C:\\Users\\Ben\\.nuget\\packages\\microsoft.net.test.sdk\\17.1.0\\microsoft.net.test.sdk.17.1.0.nupkg.sha512",
     "C:\\Users\\Ben\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

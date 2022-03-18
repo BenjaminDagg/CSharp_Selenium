@@ -109,3 +109,4 @@ C:\Users\Ben\Documents\c# tutorial\ToolsQA\ToolsQA\bin\Debug\net6.0\zh-Hant\Micr
 C:\Users\Ben\Documents\c# tutorial\ToolsQA\ToolsQA\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 C:\Users\Ben\Documents\c# tutorial\ToolsQA\ToolsQA\bin\Debug\net6.0\WebDriver.Support.dll
 C:\Users\Ben\Documents\c# tutorial\ToolsQA\ToolsQA\bin\Debug\net6.0\SeleniumExtras.WaitHelpers.dll
+C:\Users\Ben\Documents\c# tutorial\ToolsQA\ToolsQA\bin\Debug\net6.0\SeleniumExtras.PageObjects.dll
